@@ -1,2 +1,1 @@
-# thirdparty
-c++ 三方库
+pby第三方库
